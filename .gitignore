@@ -2,3 +2,4 @@
 .kaggle
 submissions
 -p
+.env
